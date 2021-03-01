@@ -2,7 +2,6 @@
 The goal of this project is to apply the learned lessons in data visualizations with python and derive Business Intelligence insights. For this project, I have chosen three data sets for the Boston Matathon (2015, 2016, 2017) and I explored them using Python. I created a Story using different visualizations for presentation showing the insights I have derived from the data.
 
 # Tools Used
-
 * Pandas
 * Numpy
 * Matplotlib
