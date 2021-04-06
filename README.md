@@ -21,3 +21,6 @@ https://www.kaggle.com/rojour/boston-results
 2. Clean, manipulate and create the visualizations. 
 3. Creating a Story Telling presentation
 
+# Presentation
+
+https://my.visme.co/view/7681r0ny-boston-marathon-data-analaysis
