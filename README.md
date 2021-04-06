@@ -23,6 +23,5 @@ https://www.kaggle.com/rojour/boston-results
 
 # Presentation
 
-[![Boston-Marathon-Data-Analaysis](https://user-images.githubusercontent.com/73388089/113743883-73006080-9704-11eb-9f55-1733abd7886e.png)](https://github.com/isra-st/BostonMarathon_RunningMagazine/files/6265782/Boston-Marathon-Data-Analaysis.pptx)
-
+[![Boston-Marathon-Data-Analaysis](https://user-images.githubusercontent.com/73388089/113743883-73006080-9704-11eb-9f55-1733abd7886e.png)](https://github.com/isra-st/BostonMarathon_RunningMagazine/files/6266486/Boston-Marathon-Data-Analaysis.pptx)
 
